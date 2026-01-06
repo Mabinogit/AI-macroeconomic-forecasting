@@ -23,3 +23,10 @@ economic data.
 Project setup and data sourcing phase.
 
 Initialize project README
+
+
+## Key Challenges Addressed
+- Missing and incomplete data
+- Mixed frequencies (monthly, quarterly, yearly)
+- Multicollinearity in economic indicators
+- Trade-off between model complexity and interpretability
